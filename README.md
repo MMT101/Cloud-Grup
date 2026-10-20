@@ -12,7 +12,7 @@
 ---
 
 ## Architecture Diagram
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ---
 
